@@ -175,8 +175,8 @@ Response:
 ### 1️ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/social-media-app
-cd social-media-app
+git clone https://github.com/Shubham270617/Social-Media-Application.git
+cd Social-Media-Application
 ```
 
 ### 2️⃣ Set up the backend
@@ -210,18 +210,10 @@ cd ../client
 npm install
 npm run dev
 ```
-
+## App will run 
+- at: http://localhost:3000
 ---
 
-## 🖼️ Screenshots
-
-###  Login Page  
-![Login](./screenshots/login.png)
-
-###  Dashboard  
-![Dashboard](./screenshots/dashboard.png)
-
----
 
 ##  Known Limitations
 
@@ -234,7 +226,7 @@ npm run dev
 ##  Author
 
 **Shubham Sinha**  
-[GitHub](https://github.com/shubhamsinha-dev) • [LinkedIn](https://linkedin.com/in/your-profile)
+[GitHub](https://github.com/Shubham270617) • [LinkedIn](linkedin.com/in/shubham-sinha-581790149)
 
 ---
 
